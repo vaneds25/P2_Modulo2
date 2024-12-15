@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 # Proyecto "Cultivos en Juego"
+# Proyecto "Cultivos en Juego" PT2
 
 Este proyecto consiste en una página web desarrollada como parte del primer módulo de mi curso de "Introducción a la Programación" en DEF.V, con un enfoque en la agricultura. ¡Agradecimientos especiales a mi sensei por sus enseñanzas a lo largo del curso y actitud positiva que se contagia! 😊
 
@@ -27,5 +28,4 @@ La estructura básica del proyecto incluye los siguientes archivos:
 
 Su servilleta @vaneds25
 =======
-# Proyecto "Cultivos en Juego" PT2
->>>>>>> f8971c0f6b29803f60ba7cfa4b94aba01d7f68d6
+
